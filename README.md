@@ -11,12 +11,11 @@ SQLite3 database is used for storing the data.
 
 ## Visuals
 
-![alt_text](https://i.imgur.com/mjvVcMR.png)
+![alt_text](https://i.imgur.com/hJ7bKro.png)
 
 ![alt_text](https://i.imgur.com/1PrXHOI.png)
 
 ![alt_text](https://i.imgur.com/2b9LRFN.png)
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ## Contributing
 Pull requests are welcome. 
