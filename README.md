@@ -15,7 +15,7 @@ SQLite3 database is used for storing the data.
 
 ![alt_text](https://i.imgur.com/1PrXHOI.png)
 
-![alt_text](https://i.imgur.com/2b9LRFN.png)
+![alt_text](https://i.imgur.com/VhFhrnR.png)
 
 ## Contributing
 Pull requests are welcome. 
