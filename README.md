@@ -1,5 +1,5 @@
 # REST API Messaging service 
-Secure messaging implementation for Notification center
+Secure messaging implementation for Notification center.
 
 ## Description
 
