@@ -22,7 +22,7 @@ class Message(models.Model):
     sender = models.ForeignKey(User, on_delete=models.CASCADE, related_name='sender')
     receiver = models.ForeignKey(User, on_delete=models.CASCADE, related_name='receiver')
     summary = models.CharField(max_length=25)
-    message = models.CharField(max_length=250)
+    message = models.CharField(max_length=256)
     importance = models.CharField(
         max_length=1,
         choices=IMPORTANCE_CHOICES,
